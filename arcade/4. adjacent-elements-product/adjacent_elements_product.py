@@ -6,10 +6,7 @@ def adjacentElementsProduct(inputArray):
         first = second
         second = index
         new_lp = inputArray[first]*inputArray[second]
-
         if new_lp > lp:
             lp = new_lp
-
+            
     return lp
-
-    

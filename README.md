@@ -27,3 +27,28 @@ Also, I include my ```working-and-accepted``` or ```one of them``` - solution(s)
 * ### Challenges
 	![Progress](http://progressed.io/bar/0?title=Completion)  
     <strong style="color: red">```0```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/challenges">View Solutions</a>
+
+# CodeFights Tutorial
+
+Find a compiled version of the codefights tutorial <a href="">Here!!</a>
+
+The following topics are covered in codefights as part of the interview practice questions:
+
+* Array
+* Linked Lists
+* Hash Tables
+* Trees
+* Heap, Stacks, Queues
+* Graphs
+* DFS & BFS
+* Backtracking
+* Sorting
+* Dynamic Programming
+* Common Techniques: Basic
+* Strings
+* Bits
+* Common Techniques: Advanced
+* Regex
+* Number Theory
+* Counting
+* Geometry

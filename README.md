@@ -30,7 +30,7 @@ Also, I include my ```working-and-accepted``` or ```one of them``` - solution(s)
 
 # CodeFights Tutorial
 
-Find a compiled version of the codefights tutorial <a href="">Here!!</a>
+Find a compiled version of the codefights tutorial <a href="https://jeury301.github.io/code-fights/">Here!!</a>
 
 The following topics are covered in codefights as part of the interview practice questions:
 

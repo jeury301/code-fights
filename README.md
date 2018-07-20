@@ -1,4 +1,3 @@
-
 # Code Fights [In progress]
 >My CodeFights  -- 💻🥊-- solutions
 
@@ -17,8 +16,8 @@ Also, I include my ```working-and-accepted``` or ```one of them``` - solution(s)
 # Progress
 
 * ### Arcade
-	![Progress](http://progressed.io/bar/55?title=Completion)  
-    <strong style="color: orange">```33/60```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/arcade">View Solutions</a>
+	![Progress](http://progressed.io/bar/7?title=Completion)  
+    <strong style="color: red">```33/464```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/arcade">View Solutions</a>
 * ### Interview Practice
 	![Progress](http://progressed.io/bar/1?title=Completion)  
     <strong style="color: red">```1/110```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/interview-practice">View Solutions</a>

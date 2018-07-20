@@ -1,3 +1,4 @@
+
 # Code Fights [In progress]
 >My CodeFights  -- 💻🥊-- solutions
 
@@ -17,13 +18,13 @@ Also, I include my ```working-and-accepted``` or ```one of them``` - solution(s)
 
 * ### Arcade
 	![Progress](http://progressed.io/bar/55?title=Completion)  
-    <strong style="color: orange">```33/60```</strong> <i>```Submitted and accepted solutions```</i>
+    <strong style="color: orange">```33/60```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/arcade">View Solutions</a>
 * ### Interview Practice
 	![Progress](http://progressed.io/bar/1?title=Completion)  
-    <strong style="color: red">```1/110```</strong> <i>```Submitted and accepted solutions```</i>
+    <strong style="color: red">```1/110```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/interview-practice">View Solutions</a>
 * ### Company Challenges
 	![Progress](http://progressed.io/bar/1?title=Completion)  
-    <strong style="color: red">```1/80```</strong> <i>```Submitted and accepted solutions```</i>
+    <strong style="color: red">```1/80```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/company-challenges">View Solutions</a>
 * ### Challenges
 	![Progress](http://progressed.io/bar/0?title=Completion)  
-    <strong style="color: red">```0```</strong> <i>```Submitted and accepted solutions```</i>
+    <strong style="color: red">```0```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/challenges">View Solutions</a>

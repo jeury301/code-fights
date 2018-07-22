@@ -1,7 +1,7 @@
 ## evenDigitsOnly
 
 ### Description
->
+> Check if all digits of the given integer are even.
 
 ### Example
 

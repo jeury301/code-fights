@@ -1,7 +1,7 @@
-## stringsRearrangement
+## deleteDigit
 
 ### Description
-> Given an array of equal-length strings, check if it is possible to rearrange the strings in such a way that after the rearrangement the strings at consecutive positions would differ by exactly one character.
+> Given some integer, find the maximal number you can obtain by deleting exactly one digit of the given number.
 
 ### Example
 

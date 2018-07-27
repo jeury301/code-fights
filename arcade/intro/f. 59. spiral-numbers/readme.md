@@ -1,7 +1,7 @@
-## stringsRearrangement
+## spiralNumbers
 
 ### Description
-> Given an array of equal-length strings, check if it is possible to rearrange the strings in such a way that after the rearrangement the strings at consecutive positions would differ by exactly one character.
+> Construct a square matrix with a size N × N containing integers from 1 to N * N in a spiral order, starting from top-left and in clockwise direction.
 
 ### Example
 

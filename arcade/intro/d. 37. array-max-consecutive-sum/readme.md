@@ -1,7 +1,7 @@
-## stringsRearrangement
+## arrayMaxConsecutiveSum
 
 ### Description
-> Given an array of equal-length strings, check if it is possible to rearrange the strings in such a way that after the rearrangement the strings at consecutive positions would differ by exactly one character.
+> Given array of integers, find the maximal possible sum of some of its k consecutive elements.
 
 ### Example
 

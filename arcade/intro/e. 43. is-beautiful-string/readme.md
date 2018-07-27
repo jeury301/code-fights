@@ -1,7 +1,9 @@
-## stringsRearrangement
+## isBeautifulString
 
 ### Description
-> Given an array of equal-length strings, check if it is possible to rearrange the strings in such a way that after the rearrangement the strings at consecutive positions would differ by exactly one character.
+> A string is said to be beautiful if b occurs in it no more times than a; c occurs in it no more times than b; etc.
+
+> Given a string, check whether it is beautiful.
 
 ### Example
 

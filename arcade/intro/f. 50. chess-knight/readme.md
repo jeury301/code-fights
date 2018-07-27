@@ -1,7 +1,9 @@
-## stringsRearrangement
+## chessKnight
 
 ### Description
-> Given an array of equal-length strings, check if it is possible to rearrange the strings in such a way that after the rearrangement the strings at consecutive positions would differ by exactly one character.
+> Given a position of a knight on the standard chessboard, find the number of different moves the knight can perform.
+
+> The knight can move to a square that is two squares horizontally and one square vertically, or two squares vertically and one square horizontally away from it. The complete move therefore looks like the letter L. Check out the image below to see all valid moves for a knight piece that is placed on one of the central squares.
 
 ### Example
 

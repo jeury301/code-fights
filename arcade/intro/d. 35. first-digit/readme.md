@@ -1,7 +1,7 @@
-## stringsRearrangement
+## firstDigit
 
 ### Description
-> Given an array of equal-length strings, check if it is possible to rearrange the strings in such a way that after the rearrangement the strings at consecutive positions would differ by exactly one character.
+> Find the leftmost digit that occurs in a given string.
 
 ### Example
 

@@ -1,7 +1,7 @@
-## stringsRearrangement
+## longestWord
 
 ### Description
-> Given an array of equal-length strings, check if it is possible to rearrange the strings in such a way that after the rearrangement the strings at consecutive positions would differ by exactly one character.
+> Define a word as a sequence of consecutive English letters. Find the longest word from the given string.
 
 ### Example
 

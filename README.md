@@ -16,8 +16,8 @@ Also, I include my ```working-and-accepted``` or ```one of them``` - solution(s)
 # Progress
 
 * ### Arcade
-	![Progress](http://progressed.io/bar/10?title=Completion)  
-    <strong style="color: red">```47/464```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/arcade">View Solutions</a>
+	![Progress](http://progressed.io/bar/13?title=Completion)  
+    <strong style="color: red">```60/464```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/arcade">View Solutions</a>
 * ### Interview Practice
 	![Progress](http://progressed.io/bar/2?title=Completion)  
     <strong style="color: red">```3/110```</strong> <i>```Submitted and accepted solutions```</i> <a href="https://github.com/jeury301/code-fights/tree/master/interview-practice">View Solutions</a>
